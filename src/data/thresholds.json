@@ -1,0 +1,8 @@
+{
+  "systolicBP": { "normal": 120, "warning": 140, "danger": 160 },
+  "diastolicBP": { "normal": 80, "warning": 90, "danger": 110 },
+  "hemoglobin": { "danger": 7, "warning": 9, "normal": 11 },
+  "gestationalWeeks": { "preterm": 37 },
+  "bodyTemp": { "normal": 37.5, "warning": 38, "danger": 38.5 },
+  "patientAge": { "youngRisk": 18, "oldRisk": 35 }
+}
